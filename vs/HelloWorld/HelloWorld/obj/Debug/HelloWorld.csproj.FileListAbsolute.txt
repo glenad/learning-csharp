@@ -1,0 +1,5 @@
+C:\Projects\vs\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Projects\vs\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Projects\vs\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Projects\vs\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Projects\vs\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

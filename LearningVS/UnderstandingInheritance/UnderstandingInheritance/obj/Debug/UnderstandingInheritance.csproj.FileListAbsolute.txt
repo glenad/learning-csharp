@@ -1,0 +1,5 @@
+C:\Projects\LearningVS\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.exe.config
+C:\Projects\LearningVS\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.exe
+C:\Projects\LearningVS\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.pdb
+C:\Projects\LearningVS\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.exe
+C:\Projects\LearningVS\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.pdb

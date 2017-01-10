@@ -1,0 +1,5 @@
+C:\Projects\LearningVS\ASP.Net\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll
+C:\Projects\LearningVS\ASP.Net\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.pdb
+C:\Projects\LearningVS\ASP.Net\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\ASP.Net\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.dll
+C:\Projects\LearningVS\ASP.Net\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.pdb

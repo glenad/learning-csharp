@@ -1,0 +1,10 @@
+C:\Projects\LearningVS\DalasWhiteProject\DalasWhiteProject\bin\Debug\DalasWhiteProject.dll
+C:\Projects\LearningVS\DalasWhiteProject\DalasWhiteProject\bin\Debug\DalasWhiteProject.pdb
+C:\Projects\LearningVS\DalasWhiteProject\DalasWhiteProject\bin\Debug\Castle.Core.dll
+C:\Projects\LearningVS\DalasWhiteProject\DalasWhiteProject\bin\Debug\TestStack.White.dll
+C:\Projects\LearningVS\DalasWhiteProject\DalasWhiteProject\bin\Debug\Castle.Core.xml
+C:\Projects\LearningVS\DalasWhiteProject\DalasWhiteProject\bin\Debug\TestStack.White.pdb
+C:\Projects\LearningVS\DalasWhiteProject\DalasWhiteProject\bin\Debug\TestStack.White.xml
+C:\Projects\LearningVS\DalasWhiteProject\DalasWhiteProject\obj\Debug\DalasWhiteProject.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\DalasWhiteProject\DalasWhiteProject\obj\Debug\DalasWhiteProject.dll
+C:\Projects\LearningVS\DalasWhiteProject\DalasWhiteProject\obj\Debug\DalasWhiteProject.pdb

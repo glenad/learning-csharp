@@ -1,0 +1,6 @@
+C:\Projects\vs\ForIterations\ForIterations\bin\Debug\ForIterations.exe.config
+C:\Projects\vs\ForIterations\ForIterations\bin\Debug\ForIterations.exe
+C:\Projects\vs\ForIterations\ForIterations\bin\Debug\ForIterations.pdb
+C:\Projects\vs\ForIterations\ForIterations\obj\Debug\ForIterations.exe
+C:\Projects\vs\ForIterations\ForIterations\obj\Debug\ForIterations.pdb
+C:\Projects\vs\ForIterations\ForIterations\obj\Debug\ForIterations.csprojResolveAssemblyReference.cache

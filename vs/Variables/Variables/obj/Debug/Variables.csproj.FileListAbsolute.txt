@@ -1,0 +1,6 @@
+C:\Projects\vs\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Projects\vs\Variables\Variables\bin\Debug\Variables.exe
+C:\Projects\vs\Variables\Variables\bin\Debug\Variables.pdb
+C:\Projects\vs\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Projects\vs\Variables\Variables\obj\Debug\Variables.exe
+C:\Projects\vs\Variables\Variables\obj\Debug\Variables.pdb

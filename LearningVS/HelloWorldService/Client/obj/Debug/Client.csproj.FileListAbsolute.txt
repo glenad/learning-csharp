@@ -1,0 +1,6 @@
+C:\Projects\LearningVS\HelloWorldService\Client\bin\Debug\Client.exe.config
+C:\Projects\LearningVS\HelloWorldService\Client\bin\Debug\Client.exe
+C:\Projects\LearningVS\HelloWorldService\Client\bin\Debug\Client.pdb
+C:\Projects\LearningVS\HelloWorldService\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\HelloWorldService\Client\obj\Debug\Client.exe
+C:\Projects\LearningVS\HelloWorldService\Client\obj\Debug\Client.pdb

@@ -1,0 +1,6 @@
+C:\Projects\PluralSight\LINQ\DataAdapterExample\DataAdapterExample\bin\Debug\DataAdapterExample.exe.config
+C:\Projects\PluralSight\LINQ\DataAdapterExample\DataAdapterExample\bin\Debug\DataAdapterExample.exe
+C:\Projects\PluralSight\LINQ\DataAdapterExample\DataAdapterExample\bin\Debug\DataAdapterExample.pdb
+C:\Projects\PluralSight\LINQ\DataAdapterExample\DataAdapterExample\obj\Debug\DataAdapterExample.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\LINQ\DataAdapterExample\DataAdapterExample\obj\Debug\DataAdapterExample.exe
+C:\Projects\PluralSight\LINQ\DataAdapterExample\DataAdapterExample\obj\Debug\DataAdapterExample.pdb

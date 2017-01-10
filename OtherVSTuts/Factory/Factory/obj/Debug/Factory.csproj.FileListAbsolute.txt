@@ -1,0 +1,6 @@
+C:\Projects\OtherVSTuts\Factory\Factory\bin\Debug\Factory.exe.config
+C:\Projects\OtherVSTuts\Factory\Factory\bin\Debug\Factory.exe
+C:\Projects\OtherVSTuts\Factory\Factory\bin\Debug\Factory.pdb
+C:\Projects\OtherVSTuts\Factory\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Projects\OtherVSTuts\Factory\Factory\obj\Debug\Factory.exe
+C:\Projects\OtherVSTuts\Factory\Factory\obj\Debug\Factory.pdb

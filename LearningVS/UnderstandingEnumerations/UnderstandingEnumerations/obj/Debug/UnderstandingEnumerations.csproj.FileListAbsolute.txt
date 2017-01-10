@@ -1,0 +1,5 @@
+C:\Projects\LearningVS\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.exe.config
+C:\Projects\LearningVS\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.exe
+C:\Projects\LearningVS\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.pdb
+C:\Projects\LearningVS\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.exe
+C:\Projects\LearningVS\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.pdb

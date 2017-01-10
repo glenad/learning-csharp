@@ -1,0 +1,8 @@
+C:\Projects\PluralSight\Interfaces\Polygons\Polygons\bin\Debug\Polygons.exe.config
+C:\Projects\PluralSight\Interfaces\Polygons\Polygons\obj\Debug\Polygons.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\Interfaces\Polygons\Polygons\bin\Debug\Polygons.exe
+C:\Projects\PluralSight\Interfaces\Polygons\Polygons\bin\Debug\Polygons.pdb
+C:\Projects\PluralSight\Interfaces\Polygons\Polygons\bin\Debug\Polygons.Library.dll
+C:\Projects\PluralSight\Interfaces\Polygons\Polygons\bin\Debug\Polygons.Library.pdb
+C:\Projects\PluralSight\Interfaces\Polygons\Polygons\obj\Debug\Polygons.exe
+C:\Projects\PluralSight\Interfaces\Polygons\Polygons\obj\Debug\Polygons.pdb

@@ -1,0 +1,5 @@
+C:\Projects\LearningVS\ASP.Net\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.dll
+C:\Projects\LearningVS\ASP.Net\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.pdb
+C:\Projects\LearningVS\ASP.Net\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\ASP.Net\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+C:\Projects\LearningVS\ASP.Net\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

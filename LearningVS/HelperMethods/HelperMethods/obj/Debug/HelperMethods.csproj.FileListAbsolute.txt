@@ -1,0 +1,6 @@
+C:\Projects\LearningVS\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Projects\LearningVS\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Projects\LearningVS\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Projects\LearningVS\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Projects\LearningVS\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb

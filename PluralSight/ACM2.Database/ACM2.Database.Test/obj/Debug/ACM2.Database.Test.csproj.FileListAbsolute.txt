@@ -1,0 +1,8 @@
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database.Test\bin\Debug\ACM2.Database.Test.dll.config
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database.Test\bin\Debug\ACM2.Database.Test.dll
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database.Test\bin\Debug\ACM2.Database.Test.pdb
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database.Test\obj\Debug\ACM2.Database.Test.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database.Test\obj\Debug\ACM2.Database.Test.dll
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database.Test\obj\Debug\ACM2.Database.Test.pdb
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database.Test\obj\Debug\ACM2.Database.Test.CustomerRetrieveTest.resources
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database.Test\obj\Debug\ACM2.Database.Test.csproj.GenerateResource.Cache

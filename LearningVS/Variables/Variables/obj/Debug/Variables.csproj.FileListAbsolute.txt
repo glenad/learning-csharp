@@ -1,0 +1,6 @@
+C:\Projects\LearningVS\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Projects\LearningVS\Variables\Variables\bin\Debug\Variables.exe
+C:\Projects\LearningVS\Variables\Variables\bin\Debug\Variables.pdb
+C:\Projects\LearningVS\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\Variables\Variables\obj\Debug\Variables.exe
+C:\Projects\LearningVS\Variables\Variables\obj\Debug\Variables.pdb

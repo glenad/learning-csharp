@@ -1,0 +1,6 @@
+C:\Projects\PluralSight\LINQ\LinqSamples\Introduction\bin\Debug\Introduction.exe.config
+C:\Projects\PluralSight\LINQ\LinqSamples\Introduction\bin\Debug\Introduction.exe
+C:\Projects\PluralSight\LINQ\LinqSamples\Introduction\bin\Debug\Introduction.pdb
+C:\Projects\PluralSight\LINQ\LinqSamples\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\LINQ\LinqSamples\Introduction\obj\Debug\Introduction.exe
+C:\Projects\PluralSight\LINQ\LinqSamples\Introduction\obj\Debug\Introduction.pdb

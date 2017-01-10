@@ -1,0 +1,6 @@
+C:\Projects\LearningVS\Using Switch\Using Switch\bin\Debug\Using Switch.exe.config
+C:\Projects\LearningVS\Using Switch\Using Switch\bin\Debug\Using Switch.exe
+C:\Projects\LearningVS\Using Switch\Using Switch\bin\Debug\Using Switch.pdb
+C:\Projects\LearningVS\Using Switch\Using Switch\obj\Debug\Using Switch.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\Using Switch\Using Switch\obj\Debug\Using Switch.exe
+C:\Projects\LearningVS\Using Switch\Using Switch\obj\Debug\Using Switch.pdb

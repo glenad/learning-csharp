@@ -1,0 +1,6 @@
+C:\Projects\PluralSight\CSharp5Fundamentals\Intro\Intro\bin\Debug\Intro.exe.config
+C:\Projects\PluralSight\CSharp5Fundamentals\Intro\Intro\bin\Debug\Intro.exe
+C:\Projects\PluralSight\CSharp5Fundamentals\Intro\Intro\bin\Debug\Intro.pdb
+C:\Projects\PluralSight\CSharp5Fundamentals\Intro\Intro\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\CSharp5Fundamentals\Intro\Intro\obj\Debug\Intro.exe
+C:\Projects\PluralSight\CSharp5Fundamentals\Intro\Intro\obj\Debug\Intro.pdb

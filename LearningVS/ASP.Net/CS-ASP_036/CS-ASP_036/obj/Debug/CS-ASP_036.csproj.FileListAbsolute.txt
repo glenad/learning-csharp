@@ -1,0 +1,5 @@
+C:\Projects\LearningVS\ASP.Net\CS-ASP_036\CS-ASP_036\bin\CS-ASP_036.dll
+C:\Projects\LearningVS\ASP.Net\CS-ASP_036\CS-ASP_036\bin\CS-ASP_036.pdb
+C:\Projects\LearningVS\ASP.Net\CS-ASP_036\CS-ASP_036\obj\Debug\CS-ASP_036.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\ASP.Net\CS-ASP_036\CS-ASP_036\obj\Debug\CS-ASP_036.dll
+C:\Projects\LearningVS\ASP.Net\CS-ASP_036\CS-ASP_036\obj\Debug\CS-ASP_036.pdb

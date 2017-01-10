@@ -1,0 +1,6 @@
+C:\Projects\LearningVS\ForIterations\ForIterations\bin\Debug\ForIterations.exe.config
+C:\Projects\LearningVS\ForIterations\ForIterations\bin\Debug\ForIterations.exe
+C:\Projects\LearningVS\ForIterations\ForIterations\bin\Debug\ForIterations.pdb
+C:\Projects\LearningVS\ForIterations\ForIterations\obj\Debug\ForIterations.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\ForIterations\ForIterations\obj\Debug\ForIterations.exe
+C:\Projects\LearningVS\ForIterations\ForIterations\obj\Debug\ForIterations.pdb

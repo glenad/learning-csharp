@@ -1,0 +1,5 @@
+C:\Projects\LearningVS\ASP.Net\CS-ASP_015\CS-ASP_015\bin\CS-ASP_015.dll
+C:\Projects\LearningVS\ASP.Net\CS-ASP_015\CS-ASP_015\bin\CS-ASP_015.pdb
+C:\Projects\LearningVS\ASP.Net\CS-ASP_015\CS-ASP_015\obj\Debug\CS-ASP_015.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\ASP.Net\CS-ASP_015\CS-ASP_015\obj\Debug\CS-ASP_015.dll
+C:\Projects\LearningVS\ASP.Net\CS-ASP_015\CS-ASP_015\obj\Debug\CS-ASP_015.pdb

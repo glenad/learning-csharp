@@ -1,0 +1,13 @@
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe.config
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Acme.Win\bin\Debug\Acme.Win.pdb
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.dll
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Acme.Win\bin\Debug\Acme.Common.dll
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.pdb
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Acme.Win\bin\Debug\Acme.Common.pdb
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Acme.Win\obj\Debug\Acme.Win.Properties.Resources.resources
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Acme.Win\obj\Debug\Acme.Win.VendorWin.resources
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csproj.GenerateResource.Cache
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Acme.Win\obj\Debug\Acme.Win.exe
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Acme.Win\obj\Debug\Acme.Win.pdb

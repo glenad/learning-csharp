@@ -1,0 +1,6 @@
+C:\Projects\LearningVS\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe.config
+C:\Projects\LearningVS\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+C:\Projects\LearningVS\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+C:\Projects\LearningVS\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+C:\Projects\LearningVS\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.pdb

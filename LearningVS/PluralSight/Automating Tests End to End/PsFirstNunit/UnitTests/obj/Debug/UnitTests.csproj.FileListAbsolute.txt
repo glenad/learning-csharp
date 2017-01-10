@@ -1,0 +1,9 @@
+C:\Projects\LearningVS\PluralSight\Automating Tests End to End\PsFirstNunit\UnitTests\bin\Debug\UnitTests.dll
+C:\Projects\LearningVS\PluralSight\Automating Tests End to End\PsFirstNunit\UnitTests\bin\Debug\UnitTests.pdb
+C:\Projects\LearningVS\PluralSight\Automating Tests End to End\PsFirstNunit\UnitTests\bin\Debug\nunit.framework.dll
+C:\Projects\LearningVS\PluralSight\Automating Tests End to End\PsFirstNunit\UnitTests\bin\Debug\PsFirstNunit.dll
+C:\Projects\LearningVS\PluralSight\Automating Tests End to End\PsFirstNunit\UnitTests\bin\Debug\PsFirstNunit.pdb
+C:\Projects\LearningVS\PluralSight\Automating Tests End to End\PsFirstNunit\UnitTests\bin\Debug\nunit.framework.xml
+C:\Projects\LearningVS\PluralSight\Automating Tests End to End\PsFirstNunit\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\PluralSight\Automating Tests End to End\PsFirstNunit\UnitTests\obj\Debug\UnitTests.dll
+C:\Projects\LearningVS\PluralSight\Automating Tests End to End\PsFirstNunit\UnitTests\obj\Debug\UnitTests.pdb

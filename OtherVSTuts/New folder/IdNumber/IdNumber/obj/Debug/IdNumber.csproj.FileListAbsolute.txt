@@ -1,0 +1,6 @@
+C:\Projects\OtherVSTuts\New folder\IdNumber\IdNumber\bin\Debug\IdNumber.exe.config
+C:\Projects\OtherVSTuts\New folder\IdNumber\IdNumber\bin\Debug\IdNumber.exe
+C:\Projects\OtherVSTuts\New folder\IdNumber\IdNumber\bin\Debug\IdNumber.pdb
+C:\Projects\OtherVSTuts\New folder\IdNumber\IdNumber\obj\Debug\IdNumber.csprojResolveAssemblyReference.cache
+C:\Projects\OtherVSTuts\New folder\IdNumber\IdNumber\obj\Debug\IdNumber.exe
+C:\Projects\OtherVSTuts\New folder\IdNumber\IdNumber\obj\Debug\IdNumber.pdb

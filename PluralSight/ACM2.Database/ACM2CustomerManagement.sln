@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ACM2.Database", "ACM2.Database\ACM2.Database.sqlproj", "{5153CE89-A629-42FD-93D5-085259CA64BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM2.Database.Test", "ACM2.Database.Test\ACM2.Database.Test.csproj", "{30BC1FB8-B27B-494B-BA42-9ADB420C8B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5153CE89-A629-42FD-93D5-085259CA64BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5153CE89-A629-42FD-93D5-085259CA64BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5153CE89-A629-42FD-93D5-085259CA64BE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5153CE89-A629-42FD-93D5-085259CA64BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5153CE89-A629-42FD-93D5-085259CA64BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5153CE89-A629-42FD-93D5-085259CA64BE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{30BC1FB8-B27B-494B-BA42-9ADB420C8B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BC1FB8-B27B-494B-BA42-9ADB420C8B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BC1FB8-B27B-494B-BA42-9ADB420C8B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BC1FB8-B27B-494B-BA42-9ADB420C8B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

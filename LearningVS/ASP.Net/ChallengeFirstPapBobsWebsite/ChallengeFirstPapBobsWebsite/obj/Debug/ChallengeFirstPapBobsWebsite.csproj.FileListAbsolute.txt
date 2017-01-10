@@ -1,0 +1,5 @@
+C:\Projects\LearningVS\ASP.Net\ChallengeFirstPapBobsWebsite\ChallengeFirstPapBobsWebsite\bin\ChallengeFirstPapBobsWebsite.dll
+C:\Projects\LearningVS\ASP.Net\ChallengeFirstPapBobsWebsite\ChallengeFirstPapBobsWebsite\bin\ChallengeFirstPapBobsWebsite.pdb
+C:\Projects\LearningVS\ASP.Net\ChallengeFirstPapBobsWebsite\ChallengeFirstPapBobsWebsite\obj\Debug\ChallengeFirstPapBobsWebsite.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\ASP.Net\ChallengeFirstPapBobsWebsite\ChallengeFirstPapBobsWebsite\obj\Debug\ChallengeFirstPapBobsWebsite.dll
+C:\Projects\LearningVS\ASP.Net\ChallengeFirstPapBobsWebsite\ChallengeFirstPapBobsWebsite\obj\Debug\ChallengeFirstPapBobsWebsite.pdb

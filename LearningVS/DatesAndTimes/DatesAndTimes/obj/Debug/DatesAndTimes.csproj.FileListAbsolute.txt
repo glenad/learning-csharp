@@ -1,0 +1,5 @@
+C:\Projects\LearningVS\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+C:\Projects\LearningVS\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+C:\Projects\LearningVS\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+C:\Projects\LearningVS\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+C:\Projects\LearningVS\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb

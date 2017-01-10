@@ -1,0 +1,6 @@
+C:\Projects\OtherVSTuts\Object\Object\bin\Debug\Object.exe.config
+C:\Projects\OtherVSTuts\Object\Object\bin\Debug\Object.exe
+C:\Projects\OtherVSTuts\Object\Object\bin\Debug\Object.pdb
+C:\Projects\OtherVSTuts\Object\Object\obj\Debug\Object.csprojResolveAssemblyReference.cache
+C:\Projects\OtherVSTuts\Object\Object\obj\Debug\Object.exe
+C:\Projects\OtherVSTuts\Object\Object\obj\Debug\Object.pdb

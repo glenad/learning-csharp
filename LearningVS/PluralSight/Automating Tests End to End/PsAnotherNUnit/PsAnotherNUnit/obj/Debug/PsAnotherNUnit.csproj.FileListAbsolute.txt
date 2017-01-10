@@ -1,0 +1,1 @@
+C:\Projects\LearningVS\PluralSight\Automating Tests End to End\PsAnotherNUnit\PsAnotherNUnit\obj\Debug\PsAnotherNUnit.csprojResolveAssemblyReference.cache

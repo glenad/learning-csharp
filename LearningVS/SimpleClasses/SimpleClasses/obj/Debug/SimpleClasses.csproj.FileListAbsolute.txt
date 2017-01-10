@@ -1,0 +1,6 @@
+C:\Projects\LearningVS\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe.config
+C:\Projects\LearningVS\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe
+C:\Projects\LearningVS\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.pdb
+C:\Projects\LearningVS\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.exe
+C:\Projects\LearningVS\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.pdb

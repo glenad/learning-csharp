@@ -1,0 +1,6 @@
+C:\Projects\vs\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Projects\vs\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Projects\vs\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Projects\vs\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Projects\vs\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Projects\vs\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Projects\OtherVSTuts\InterfaceDemo\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Projects\OtherVSTuts\InterfaceDemo\Interfaces\bin\Debug\Interfaces.exe
+C:\Projects\OtherVSTuts\InterfaceDemo\Interfaces\bin\Debug\Interfaces.pdb
+C:\Projects\OtherVSTuts\InterfaceDemo\Interfaces\obj\Debug\Interfaces.exe
+C:\Projects\OtherVSTuts\InterfaceDemo\Interfaces\obj\Debug\Interfaces.pdb

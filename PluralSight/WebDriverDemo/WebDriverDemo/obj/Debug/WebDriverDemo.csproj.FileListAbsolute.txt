@@ -1,0 +1,8 @@
+C:\Projects\PluralSight\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriverDemo.exe.config
+C:\Projects\PluralSight\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriverDemo.exe
+C:\Projects\PluralSight\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriverDemo.pdb
+C:\Projects\PluralSight\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriver.dll
+C:\Projects\PluralSight\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriver.xml
+C:\Projects\PluralSight\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.exe
+C:\Projects\PluralSight\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.pdb

@@ -1,0 +1,8 @@
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.CommonTests.dll
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.CommonTests.pdb
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.Common.dll
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Tests\Acme.CommonTests\bin\Debug\Acme.Common.pdb
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.dll
+C:\Projects\PluralSight\CSharpBP-Collections\AcmeApp\Tests\Acme.CommonTests\obj\Debug\Acme.CommonTests.pdb

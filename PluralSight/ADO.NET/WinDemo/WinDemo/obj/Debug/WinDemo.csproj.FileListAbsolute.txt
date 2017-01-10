@@ -1,0 +1,11 @@
+C:\Projects\PluralSight\ADO.NET\WinDemo\WinDemo\bin\Debug\WinDemo.exe.config
+C:\Projects\PluralSight\ADO.NET\WinDemo\WinDemo\bin\Debug\WinDemo.exe
+C:\Projects\PluralSight\ADO.NET\WinDemo\WinDemo\bin\Debug\WinDemo.pdb
+C:\Projects\PluralSight\ADO.NET\WinDemo\WinDemo\bin\Debug\DataLayer.dll
+C:\Projects\PluralSight\ADO.NET\WinDemo\WinDemo\bin\Debug\DataLayer.pdb
+C:\Projects\PluralSight\ADO.NET\WinDemo\WinDemo\obj\Debug\WinDemo.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\ADO.NET\WinDemo\WinDemo\obj\Debug\WinDemo.Properties.Resources.resources
+C:\Projects\PluralSight\ADO.NET\WinDemo\WinDemo\obj\Debug\WinDemo.csproj.GenerateResource.Cache
+C:\Projects\PluralSight\ADO.NET\WinDemo\WinDemo\obj\Debug\WinDemo.exe
+C:\Projects\PluralSight\ADO.NET\WinDemo\WinDemo\obj\Debug\WinDemo.pdb
+C:\Projects\PluralSight\ADO.NET\WinDemo\WinDemo\obj\Debug\WinDemo.Form1.resources

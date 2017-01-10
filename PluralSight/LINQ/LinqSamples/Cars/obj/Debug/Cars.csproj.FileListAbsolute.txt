@@ -1,0 +1,12 @@
+C:\Projects\PluralSight\LINQ\LinqSamples\Cars\bin\Debug\Cars.exe.config
+C:\Projects\PluralSight\LINQ\LinqSamples\Cars\bin\Debug\fuel.csv
+C:\Projects\PluralSight\LINQ\LinqSamples\Cars\bin\Debug\Cars.exe
+C:\Projects\PluralSight\LINQ\LinqSamples\Cars\bin\Debug\Cars.pdb
+C:\Projects\PluralSight\LINQ\LinqSamples\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\LINQ\LinqSamples\Cars\obj\Debug\Cars.exe
+C:\Projects\PluralSight\LINQ\LinqSamples\Cars\obj\Debug\Cars.pdb
+C:\Projects\PluralSight\LINQ\LinqSamples\Cars\bin\Debug\manufacturers.csv
+C:\Projects\PluralSight\LINQ\LinqSamples\Cars\bin\Debug\EntityFramework.dll
+C:\Projects\PluralSight\LINQ\LinqSamples\Cars\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\PluralSight\LINQ\LinqSamples\Cars\bin\Debug\EntityFramework.xml
+C:\Projects\PluralSight\LINQ\LinqSamples\Cars\bin\Debug\EntityFramework.SqlServer.xml

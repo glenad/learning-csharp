@@ -1,0 +1,6 @@
+C:\Projects\PluralSight\LINQ\LinqSamples\Queries\bin\Debug\Queries.exe.config
+C:\Projects\PluralSight\LINQ\LinqSamples\Queries\bin\Debug\Queries.exe
+C:\Projects\PluralSight\LINQ\LinqSamples\Queries\bin\Debug\Queries.pdb
+C:\Projects\PluralSight\LINQ\LinqSamples\Queries\obj\Debug\Queries.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\LINQ\LinqSamples\Queries\obj\Debug\Queries.exe
+C:\Projects\PluralSight\LINQ\LinqSamples\Queries\obj\Debug\Queries.pdb

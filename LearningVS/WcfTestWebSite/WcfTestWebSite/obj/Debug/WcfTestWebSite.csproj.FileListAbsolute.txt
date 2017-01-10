@@ -1,0 +1,5 @@
+C:\Projects\LearningVS\WcfTestWebSite\WcfTestWebSite\obj\Debug\WcfTestWebSite.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\WcfTestWebSite\WcfTestWebSite\bin\WcfTestWebSite.dll
+C:\Projects\LearningVS\WcfTestWebSite\WcfTestWebSite\bin\WcfTestWebSite.pdb
+C:\Projects\LearningVS\WcfTestWebSite\WcfTestWebSite\obj\Debug\WcfTestWebSite.dll
+C:\Projects\LearningVS\WcfTestWebSite\WcfTestWebSite\obj\Debug\WcfTestWebSite.pdb

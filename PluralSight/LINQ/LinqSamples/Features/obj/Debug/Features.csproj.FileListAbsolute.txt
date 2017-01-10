@@ -1,0 +1,6 @@
+C:\Projects\PluralSight\LINQ\LinqSamples\Features\bin\Debug\Features.exe.config
+C:\Projects\PluralSight\LINQ\LinqSamples\Features\bin\Debug\Features.exe
+C:\Projects\PluralSight\LINQ\LinqSamples\Features\bin\Debug\Features.pdb
+C:\Projects\PluralSight\LINQ\LinqSamples\Features\obj\Debug\Features.exe
+C:\Projects\PluralSight\LINQ\LinqSamples\Features\obj\Debug\Features.pdb
+C:\Projects\PluralSight\LINQ\LinqSamples\Features\obj\Debug\Features.csprojResolveAssemblyReference.cache

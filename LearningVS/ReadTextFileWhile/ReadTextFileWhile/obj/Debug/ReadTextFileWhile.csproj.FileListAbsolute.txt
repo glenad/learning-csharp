@@ -1,0 +1,7 @@
+C:\Projects\LearningVS\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe.config
+C:\Projects\LearningVS\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe
+C:\Projects\LearningVS\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.pdb
+C:\Projects\LearningVS\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
+C:\Projects\LearningVS\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb
+C:\Projects\LearningVS\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\Values1.txt

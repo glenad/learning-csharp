@@ -1,0 +1,5 @@
+C:\Projects\vs\OperatorsExpressionsStatements\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.exe.config
+C:\Projects\vs\OperatorsExpressionsStatements\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.exe
+C:\Projects\vs\OperatorsExpressionsStatements\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.pdb
+C:\Projects\vs\OperatorsExpressionsStatements\OperatorsExpressionsStatements\obj\Debug\OperatorsExpressionsStatements.exe
+C:\Projects\vs\OperatorsExpressionsStatements\OperatorsExpressionsStatements\obj\Debug\OperatorsExpressionsStatements.pdb

@@ -1,0 +1,9 @@
+C:\Projects\PluralSight\WordPressAutomation\WordPressTests\bin\Debug\WordPressTests.dll
+C:\Projects\PluralSight\WordPressAutomation\WordPressTests\bin\Debug\WordPressTests.pdb
+C:\Projects\PluralSight\WordPressAutomation\WordPressTests\bin\Debug\WordPressAutomation.dll
+C:\Projects\PluralSight\WordPressAutomation\WordPressTests\bin\Debug\WebDriver.dll
+C:\Projects\PluralSight\WordPressAutomation\WordPressTests\bin\Debug\WordPressAutomation.pdb
+C:\Projects\PluralSight\WordPressAutomation\WordPressTests\bin\Debug\WebDriver.xml
+C:\Projects\PluralSight\WordPressAutomation\WordPressTests\obj\Debug\WordPressTests.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\WordPressAutomation\WordPressTests\obj\Debug\WordPressTests.dll
+C:\Projects\PluralSight\WordPressAutomation\WordPressTests\obj\Debug\WordPressTests.pdb

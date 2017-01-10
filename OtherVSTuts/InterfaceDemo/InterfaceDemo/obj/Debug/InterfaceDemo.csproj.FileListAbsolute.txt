@@ -1,0 +1,5 @@
+C:\Projects\OtherVSTuts\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.dll
+C:\Projects\OtherVSTuts\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\Projects\OtherVSTuts\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csprojResolveAssemblyReference.cache
+C:\Projects\OtherVSTuts\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.dll
+C:\Projects\OtherVSTuts\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

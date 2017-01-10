@@ -1,0 +1,6 @@
+C:\Projects\vs\HelperMethod\HelperMethod\bin\Debug\HelperMethod.exe.config
+C:\Projects\vs\HelperMethod\HelperMethod\bin\Debug\HelperMethod.exe
+C:\Projects\vs\HelperMethod\HelperMethod\bin\Debug\HelperMethod.pdb
+C:\Projects\vs\HelperMethod\HelperMethod\obj\Debug\HelperMethod.exe
+C:\Projects\vs\HelperMethod\HelperMethod\obj\Debug\HelperMethod.pdb
+C:\Projects\vs\HelperMethod\HelperMethod\obj\Debug\HelperMethod.csprojResolveAssemblyReference.cache

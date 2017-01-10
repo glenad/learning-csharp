@@ -1,0 +1,5 @@
+C:\Projects\LearningVS\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+C:\Projects\LearningVS\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+C:\Projects\LearningVS\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+C:\Projects\LearningVS\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+C:\Projects\LearningVS\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb

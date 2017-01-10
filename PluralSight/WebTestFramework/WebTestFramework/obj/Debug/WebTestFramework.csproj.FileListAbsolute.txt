@@ -1,0 +1,9 @@
+C:\Projects\PluralSight\WebTestFramework\WebTestFramework\bin\Debug\WebTestFramework.dll
+C:\Projects\PluralSight\WebTestFramework\WebTestFramework\bin\Debug\WebTestFramework.pdb
+C:\Projects\PluralSight\WebTestFramework\WebTestFramework\bin\Debug\WebDriver.dll
+C:\Projects\PluralSight\WebTestFramework\WebTestFramework\bin\Debug\WebDriver.Support.dll
+C:\Projects\PluralSight\WebTestFramework\WebTestFramework\bin\Debug\WebDriver.xml
+C:\Projects\PluralSight\WebTestFramework\WebTestFramework\bin\Debug\WebDriver.Support.xml
+C:\Projects\PluralSight\WebTestFramework\WebTestFramework\obj\Debug\WebTestFramework.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\WebTestFramework\WebTestFramework\obj\Debug\WebTestFramework.dll
+C:\Projects\PluralSight\WebTestFramework\WebTestFramework\obj\Debug\WebTestFramework.pdb

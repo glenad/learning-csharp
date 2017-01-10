@@ -1,0 +1,6 @@
+C:\Projects\LearningVS\HelloWorldService\HelloWorldService\bin\Debug\HelloWorldService.dll.config
+C:\Projects\LearningVS\HelloWorldService\HelloWorldService\bin\Debug\HelloWorldService.dll
+C:\Projects\LearningVS\HelloWorldService\HelloWorldService\bin\Debug\HelloWorldService.pdb
+C:\Projects\LearningVS\HelloWorldService\HelloWorldService\obj\Debug\HelloWorldService.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\HelloWorldService\HelloWorldService\obj\Debug\HelloWorldService.dll
+C:\Projects\LearningVS\HelloWorldService\HelloWorldService\obj\Debug\HelloWorldService.pdb

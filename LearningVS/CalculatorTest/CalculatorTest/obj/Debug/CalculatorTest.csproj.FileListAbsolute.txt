@@ -1,0 +1,10 @@
+C:\Projects\LearningVS\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Projects\LearningVS\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Projects\LearningVS\CalculatorTest\CalculatorTest\bin\Debug\Castle.Core.dll
+C:\Projects\LearningVS\CalculatorTest\CalculatorTest\bin\Debug\TestStack.White.dll
+C:\Projects\LearningVS\CalculatorTest\CalculatorTest\bin\Debug\Castle.Core.xml
+C:\Projects\LearningVS\CalculatorTest\CalculatorTest\bin\Debug\TestStack.White.pdb
+C:\Projects\LearningVS\CalculatorTest\CalculatorTest\bin\Debug\TestStack.White.xml
+C:\Projects\LearningVS\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Projects\LearningVS\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.pdb

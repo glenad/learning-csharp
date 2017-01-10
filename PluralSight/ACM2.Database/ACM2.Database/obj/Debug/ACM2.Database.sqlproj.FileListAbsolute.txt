@@ -1,0 +1,6 @@
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database\bin\Debug\ACM2.Database.dacpac
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database\bin\Debug\ACM2.Database.dll
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database\bin\Debug\ACM2.Database.pdb
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database\obj\Debug\ACM2.Database.dll
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database\obj\Debug\ACM2.Database.pdb
+C:\Projects\PluralSight\ACM2.Database\ACM2.Database\obj\Debug\ACM2.Database.sqlprojResolveAssemblyReference.cache

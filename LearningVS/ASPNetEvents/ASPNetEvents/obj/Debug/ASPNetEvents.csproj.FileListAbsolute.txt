@@ -1,0 +1,5 @@
+C:\Projects\LearningVS\ASPNetEvents\ASPNetEvents\bin\ASPNetEvents.dll
+C:\Projects\LearningVS\ASPNetEvents\ASPNetEvents\bin\ASPNetEvents.pdb
+C:\Projects\LearningVS\ASPNetEvents\ASPNetEvents\obj\Debug\ASPNetEvents.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\ASPNetEvents\ASPNetEvents\obj\Debug\ASPNetEvents.dll
+C:\Projects\LearningVS\ASPNetEvents\ASPNetEvents\obj\Debug\ASPNetEvents.pdb

@@ -1,0 +1,77 @@
+2016/01/28 04:49:59 PM	This log contains information about the import schema operation into project 'ACM2.Database' on computer 'ITSCPU010' by user 'GlenA'.
+2016/01/28 04:49:59 PM	Import of database schema has started.
+2016/01/28 04:50:03 PM	Gathering database options
+2016/01/28 04:50:03 PM	Gathering users
+2016/01/28 04:50:03 PM	Gathering roles
+2016/01/28 04:50:03 PM	Gathering application roles
+2016/01/28 04:50:03 PM	Gathering role memberships
+2016/01/28 04:50:03 PM	Gathering filegroups
+2016/01/28 04:50:03 PM	Gathering full-text catalogs
+2016/01/28 04:50:03 PM	Gathering assemblies
+2016/01/28 04:50:03 PM	Gathering certificates
+2016/01/28 04:50:03 PM	Gathering asymmetric keys
+2016/01/28 04:50:03 PM	Gathering symmetric keys
+2016/01/28 04:50:03 PM	Gathering encrypted symmetric keys
+2016/01/28 04:50:03 PM	Gathering schemas
+2016/01/28 04:50:03 PM	Gathering XML schema collections
+2016/01/28 04:50:03 PM	Gathering user-defined data types
+2016/01/28 04:50:03 PM	Gathering user-defined types
+2016/01/28 04:50:03 PM	Gathering table types
+2016/01/28 04:50:03 PM	Gathering unique keys for table types
+2016/01/28 04:50:03 PM	Gathering primary keys for table types
+2016/01/28 04:50:03 PM	Gathering indexes for table types
+2016/01/28 04:50:03 PM	Gathering check constraints for table types
+2016/01/28 04:50:03 PM	Gathering default constraints for table types
+2016/01/28 04:50:03 PM	Gathering partition functions
+2016/01/28 04:50:03 PM	Gathering partition schemes
+2016/01/28 04:50:03 PM	Gathering functions
+2016/01/28 04:50:03 PM	Gathering encrypted functions
+2016/01/28 04:50:03 PM	Gathering aggregates
+2016/01/28 04:50:03 PM	Gathering procedures
+2016/01/28 04:50:03 PM	Gathering encrypted procedures
+2016/01/28 04:50:03 PM	Gathering tables
+2016/01/28 04:50:03 PM	Gathering primary keys
+2016/01/28 04:50:03 PM	Gathering unique constraints
+2016/01/28 04:50:03 PM	Gathering foreign keys
+2016/01/28 04:50:03 PM	Gathering default constraints
+2016/01/28 04:50:03 PM	Gathering check constraints
+2016/01/28 04:50:03 PM	Gathering views
+2016/01/28 04:50:03 PM	Gathering encrypted views
+2016/01/28 04:50:03 PM	Gathering indexes
+2016/01/28 04:50:03 PM	Gathering statistics
+2016/01/28 04:50:03 PM	Gathering full-text index stoplists
+2016/01/28 04:50:03 PM	Gathering search property lists
+2016/01/28 04:50:03 PM	Gathering search properties
+2016/01/28 04:50:03 PM	Gathering full-text indexes
+2016/01/28 04:50:03 PM	Gathering column store indexes
+2016/01/28 04:50:03 PM	Gathering spatial indexes
+2016/01/28 04:50:03 PM	Gathering XML indexes
+2016/01/28 04:50:03 PM	Gathering Selective XML indexes
+2016/01/28 04:50:03 PM	Gathering encrypted triggers
+2016/01/28 04:50:03 PM	Gathering triggers
+2016/01/28 04:50:03 PM	Gathering encrypted and clr ddl triggers
+2016/01/28 04:50:03 PM	Gathering ddl triggers
+2016/01/28 04:50:03 PM	Gathering synonyms
+2016/01/28 04:50:03 PM	Gathering defaults
+2016/01/28 04:50:03 PM	Gathering data constraint uddt bindings
+2016/01/28 04:50:03 PM	Gathering rules
+2016/01/28 04:50:03 PM	Gathering data constraint uddt bindings
+2016/01/28 04:50:03 PM	Gathering message types
+2016/01/28 04:50:03 PM	Gathering queues
+2016/01/28 04:50:03 PM	Gathering contracts
+2016/01/28 04:50:03 PM	Gathering services
+2016/01/28 04:50:03 PM	Gathering event notifications
+2016/01/28 04:50:03 PM	Gathering remote service bindings
+2016/01/28 04:50:03 PM	Gathering broker priorities
+2016/01/28 04:50:03 PM	Gathering signatures
+2016/01/28 04:50:03 PM	Gathering data compression options
+2016/01/28 04:50:03 PM	Gathering sequence types
+2016/01/28 04:50:03 PM	Gathering extended properties
+2016/01/28 04:50:03 PM	Gathering credentials
+2016/01/28 04:50:03 PM	Gathering logins
+2016/01/28 04:50:03 PM	Gathering server audits
+2016/01/28 04:50:04 PM	Scanning project for duplicate elements
+2016/01/28 04:50:04 PM	Finished duplicate element processing
+2016/01/28 04:50:04 PM	Finished importing database.
+2016/01/28 04:50:04 PM	A summary of the import was saved to the following location: C:\Projects\PluralSight\ACM2.Database\ACM2.Database\Import Schema Logs\ACM2.Database_20160128024959.log
+2016/01/28 04:50:04 PM	Click Finish to continue...

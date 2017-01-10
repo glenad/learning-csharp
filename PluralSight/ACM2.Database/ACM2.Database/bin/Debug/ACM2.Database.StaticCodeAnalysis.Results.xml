@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Problems>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0007</Rule>
+    <ProblemDescription>Nullable columns can cause final results to be evaluated as NULL for the predicate.</ProblemDescription>
+    <SourceFile>C:\Projects\PluralSight\ACM2.Database\ACM2.Database\dbo\Stored Procedures\CustomerRetrieve.sql</SourceFile>
+    <Line>10</Line>
+    <Column>8</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+  <Problem>
+    <Rule>Microsoft.Rules.Data.SR0014</Rule>
+    <ProblemDescription>Data loss might occur when casting from Char(2) to NVarChar(20).</ProblemDescription>
+    <SourceFile>C:\Projects\PluralSight\ACM2.Database\ACM2.Database\dbo\Stored Procedures\CustomerRetrieve.sql</SourceFile>
+    <Line>10</Line>
+    <Column>22</Column>
+    <Severity>Warning</Severity>
+  </Problem>
+</Problems>

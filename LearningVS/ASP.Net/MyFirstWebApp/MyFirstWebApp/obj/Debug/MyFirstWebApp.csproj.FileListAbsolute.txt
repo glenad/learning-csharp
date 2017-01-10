@@ -1,0 +1,5 @@
+C:\Projects\LearningVS\ASP.Net\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.dll
+C:\Projects\LearningVS\ASP.Net\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.pdb
+C:\Projects\LearningVS\ASP.Net\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.csprojResolveAssemblyReference.cache
+C:\Projects\LearningVS\ASP.Net\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.dll
+C:\Projects\LearningVS\ASP.Net\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.pdb

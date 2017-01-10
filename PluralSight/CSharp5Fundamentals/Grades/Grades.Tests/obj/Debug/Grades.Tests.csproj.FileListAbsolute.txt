@@ -1,0 +1,7 @@
+C:\Projects\PluralSight\CSharp5Fundamentals\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Projects\PluralSight\CSharp5Fundamentals\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Projects\PluralSight\CSharp5Fundamentals\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\PluralSight\CSharp5Fundamentals\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Projects\PluralSight\CSharp5Fundamentals\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
+C:\Projects\PluralSight\CSharp5Fundamentals\Grades\Grades.Tests\bin\Debug\Grades.exe
+C:\Projects\PluralSight\CSharp5Fundamentals\Grades\Grades.Tests\bin\Debug\Grades.pdb
